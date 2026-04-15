@@ -109,10 +109,76 @@
     { "id": 98, "stages": ["silicobra","sandaconda"] },
     { "id": 99, "stages": ["nickit","thievul"] },
     { "id": 100, "stages": ["blipbug","dottler","orbeetle"] }
+
+    ,
+{ "id": 101, "stages": ["sandshrew","sandslash"] },
+{ "id": 102, "stages": ["vulpix","ninetales"] },
+{ "id": 103, "stages": ["bellsprout","weepinbell","victreebel"] },
+{ "id": 104, "stages": ["tentacool","tentacruel"] },
+{ "id": 105, "stages": ["magnemite","magneton","magnezone"] },
+{ "id": 106, "stages": ["doduo","dodrio"] },
+{ "id": 107, "stages": ["seel","dewgong"] },
+{ "id": 108, "stages": ["grimer","muk"] },
+{ "id": 109, "stages": ["shellder","cloyster"] },
+{ "id": 110, "stages": ["drowzee","hypno"] },
+
+{ "id": 111, "stages": ["krabby","kingler"] },
+{ "id": 112, "stages": ["voltorb","electrode"] },
+{ "id": 113, "stages": ["exeggcute","exeggutor"] },
+{ "id": 114, "stages": ["cubone","marowak"] },
+{ "id": 115, "stages": ["koffing","weezing"] },
+{ "id": 116, "stages": ["goldeen","seaking"] },
+{ "id": 117, "stages": ["staryu","starmie"] },
+{ "id": 118, "stages": ["magmar","magmortar"] },
+{ "id": 119, "stages": ["electabuzz","electivire"] },
+{ "id": 120, "stages": ["pinsir"] },
+
+{ "id": 121, "stages": ["heracross"] },
+{ "id": 122, "stages": ["skarmory"] },
+{ "id": 123, "stages": ["phanpy","donphan"] },
+{ "id": 124, "stages": ["porygon","porygon2","porygon-z"] },
+{ "id": 125, "stages": ["horsea","seadra","kingdra"] },
+
+{ "id": 126, "stages": ["spheal","sealeo","walrein"] },
+{ "id": 127, "stages": ["shuppet","banette"] },
+{ "id": 128, "stages": ["duskull","dusclops","dusknoir"] },
+{ "id": 129, "stages": ["snorunt","glalie","froslass"] },
+{ "id": 130, "stages": ["buneary","lopunny"] },
+
+{ "id": 131, "stages": ["croagunk","toxicroak"] },
+{ "id": 132, "stages": ["bronzor","bronzong"] },
+{ "id": 133, "stages": ["hippopotas","hippowdon"] },
+{ "id": 134, "stages": ["skorupi","drapion"] },
+{ "id": 135, "stages": ["riolu","lucario"] },
+
+{ "id": 136, "stages": ["lillipup","herdier","stoutland"] },
+{ "id": 137, "stages": ["pidove","tranquill","unfezant"] },
+{ "id": 138, "stages": ["roggenrola","boldore","gigalith"] },
+{ "id": 139, "stages": ["yamask","cofagrigus"] },
+{ "id": 140, "stages": ["golett","golurk"] },
+
+{ "id": 141, "stages": ["pawniard","bisharp"] },
+{ "id": 142, "stages": ["rufflet","braviary"] },
+{ "id": 143, "stages": ["vullaby","mandibuzz"] },
+{ "id": 144, "stages": ["deerling","sawsbuck"] },
+{ "id": 145, "stages": ["klink","klang","klinklang"] },
+
+{ "id": 146, "stages": ["helioptile","heliolisk"] },
+{ "id": 147, "stages": ["tyrunt","tyrantrum"] },
+{ "id": 148, "stages": ["amaura","aurorus"] },
+{ "id": 149, "stages": ["phantump","trevenant"] },
+{ "id": 150, "stages": ["hawlucha"] }
+    
   ],
-  "legendary": [
-    "mewtwo","mew","lugia","ho-oh","rayquaza","kyogre","groudon",
-    "dialga","palkia","giratina","arceus","reshiram","zekrom",
-    "xerneas","yveltal","solgaleo","lunala","zacian","zamazenta","eternatus"
-  ]
+ "legendary": [
+  "mewtwo","mew","lugia","ho-oh","rayquaza","kyogre","groudon",
+  "dialga","palkia","giratina","arceus","reshiram","zekrom",
+  "xerneas","yveltal","solgaleo","lunala","zacian","zamazenta","eternatus",
+  "articuno","zapdos","moltres",
+  "raikou","entei","suicune",
+  "latios","latias",
+  "heatran",
+  "cresselia",
+  "darkrai"
+]
 }
